@@ -159,13 +159,14 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  margin: -10px 0;
+  max-height: 60px;
 }
 
 .main-pages {
   margin-top: 60px;
 }
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -494,7 +495,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-header p {
   text-align: center;
   margin: auto;
-  font-size: 15px;
+  font-size: 17px;
   padding-bottom: 60px;
   color: #556877;
   width: 50%;
@@ -1370,4 +1371,18 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer .credits a:hover {
   color: #f1f7ff;
+}
+.media-body h5  {
+  font-family: "Roboto", sans-serif;
+  color: #7c8d93;
+  font-weight: 500;
+  font-size: 12px;
+  padding-left: -10px;
+}
+media-body h4 {
+  font-family: "Roboto", sans-serif;
+  color: #7c8d93;
+  font-weight: 500;
+  font-size: 12px;
+  padding-left: -50px;
 }
